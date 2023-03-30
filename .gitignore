@@ -1,4 +1,3 @@
 # Rill
 *.db
 *.db.wal
-data/
